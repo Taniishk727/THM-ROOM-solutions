@@ -1,8 +1,8 @@
 # Cache Me Outside — CTF Write-Up
 
 > **Category:** OSINT
-> **Difficulty:** Easy / Medium
-> **Platform:** CTF
+> **Difficulty:** Easy 
+> **Platform:** THM
 > **Room:** Cache Me Outside
 
 ---
