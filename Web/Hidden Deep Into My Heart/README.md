@@ -2,7 +2,7 @@
 
 > **Category:** Web / Enumeration
 > **Difficulty:** Easy
-> **Platform:**THM
+> **Platform:** THM
 > **Room:** Hidden Deep Into My Heart
 
 ---
